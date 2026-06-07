@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Anna"
   pronouns         : # example: "she/her"  
-  bio              : "I'm a librarian who works in Digital Library Services"
-  location         : "Earth"
+  bio              : "I'm a librarian who is Head of Digital Library Services at the Marriott Library, University of Utah"
+  location         : "Utah"
   employer         : "University of Utah"
   uri              : # URL
   email            : "anna.neatrour@utah.edu" 
@@ -36,7 +36,7 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=KEeT8nMAAAAJ&hl=en"
-  inspire-hep      : # URL
+  elements      : "https://profiles.faculty.utah.edu/u0246412"
   impactstory      : # URL
   orcid            : "https://https://orcid.org/0000-0001-8007-9940"
   semantic         : # URL
