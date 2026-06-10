@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "The Invisible Default: Examining Representation in Digital Collections."
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-09-15-invisible-default
+excerpt: 'This mixed-method study investigates the representation of race and ethnicity within the J. Willard Marriott Digital Library at the University of Utah. The digital collections analyzed in this study come from the Marriott Library’s Special Collections, which represent only a fraction of the library’s physical material (less than 1 percent), albeit those most public facing. Using a team-based approach with librarians from various disciplines and areas of expertise, this project yielded dynamic analysis and conversation combined with heavy contemplation.'
+date: 2025-09-15
+venue: 'ITAL: Information Technology and Libraries'
+paperurl: https://ital.corejournals.org/index.php/ital/article/view/17306'
+citation: '“The Invisible Default: Examining Representation in Digital Collections.” Information Technology and Libraries. September 2025. Alexander, K., Kirby, J., Terry, D., Wittmann, R., and Neatrour, A. (peer-reviewed)
+https://ital.corejournals.org/index.php/ital/article/view/17306'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
