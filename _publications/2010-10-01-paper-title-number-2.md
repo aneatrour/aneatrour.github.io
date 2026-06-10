@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Documenting contemporary regional history: the Utah COVID-19 digital collection"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2020-07-01-documenting-contemporary-regional
+excerpt: 'When faced with events, such as the global pandemic of coronavirus disease 2019 (COVID-19), libraries have a unique opportunity to develop a community facing response through born-digital collections. These collections provide challenges for metadata creation, collection development policies, workflows, and digital preservation. This paper aims to provide an overview of the Utah COVID-19 digital collection, with a discussion of impact and lessons learned.'
+date: 2020-07-01
+venue: 'Digital Library Perspectives'
+paperurl: 'https://doi.org/10.1108/DLP-04-2020-0025'
+citation: '"Documenting contemporary regional history: the Utah COVID-19 digital collection" Digital Library Perspectives. July 2020. Neatrour, A., Myntti, J. and Wittmann, R.J. https://doi.org/10.1108/DLP-04-2020-0025'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
