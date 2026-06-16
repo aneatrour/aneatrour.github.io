@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[My current CV](https://github.com/aneatrour/aneatrour.github.io/blob/master/files/NEATROUR_CV_2026_06.pdf)
+<!--
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -40,6 +42,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+  -->
 <!--
 Publications
 ======
