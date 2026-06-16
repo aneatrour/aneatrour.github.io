@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 [My current CV](https://github.com/aneatrour/aneatrour.github.io/blob/master/files/NEATROUR_CV_2026_06.pdf)
-<!--
-Education
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
