@@ -7,7 +7,6 @@ excerpt: 'This mixed-method study investigates the representation of race and et
 date: 2025-09-15
 venue: 'ITAL: Information Technology and Libraries'
 paperurl: https://ital.corejournals.org/index.php/ital/article/view/17306'
-citation: '“The Invisible Default: Examining Representation in Digital Collections.” Information Technology and Libraries. September 2025. Alexander, K., Kirby, J., Terry, D., Wittmann, R., and Neatrour, A. (peer-reviewed)
-https://ital.corejournals.org/index.php/ital/article/view/17306
+citation: '“The Invisible Default: Examining Representation in Digital Collections.” Information Technology and Libraries. September 2025. Alexander, K., Kirby, J., Terry, D., Wittmann, R., and Neatrour, A. (peer-reviewed) https://ital.corejournals.org/index.php/ital/article/view/17306
 ---
 
