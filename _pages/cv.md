@@ -900,13 +900,12 @@ Data Crafting. Neatrour, A., Wittmann, R., Hebron, T., Slater, N.,
 Cummings, R. Digital Matters Workshop Series. (November)
 
 Metadata Introduction/Refresher Training for Special Collections.
- Marriott Library. Neatrour, A. Wittmann, R. and Hebron, T. (May)
+Marriott Library. Neatrour, A. Wittmann, R. and Hebron, T. (May)
 
- Introduction to OmekaS for Digital Exhibits and Scholarship. Neatrour,
- A. and Wittmann, R. Digital Matters Lab Workshop Series. (February)
+Introduction to OmekaS for Digital Exhibits and Scholarship. Neatrour,
+A. and Wittmann, R. Digital Matters Lab Workshop Series. (February)
 
-Invited guest lecture on oral histories, BlockU, Medical Humanities
-2250. (January)
+Invited guest lecture on oral histories, BlockU, Medical Humanities 2250. (January)
 
 **2021**
 
