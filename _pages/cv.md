@@ -1086,15 +1086,13 @@ https://ksltv.com/435322/u-of-u-creates-digital-archive-for-coronavirus-history/
 
 NISO Information Creation & Curation Topic Committee 2019-present
 
-2022 Software Citation Workshop, invited focus group participant,
-Wolbach Library 2022
+2022 Software Citation Workshop, invited focus group participant, Wolbach Library 2022
 
 Research AMP Advisory Board, Social Science Research Council 2022
 
 Collective Responsibility Steering Team 2020-2021
 
-Digital Library Federation Forum AIG, Metadata Working Group member
-2020-2022
+Digital Library Federation Forum AIG, Metadata Working Group member 2020-2022
 
 Digital Humanities Advancement Grant, NEH review panelist 2019
 
@@ -1104,29 +1102,21 @@ for Grant-Funded Digital Projects, funded forum participant
 
 ALCTS Metadata Interest Group Vice-Chair/Chair, ALA 2017-2019
 
-Digital Library Federation Forum AIG, Metadata Working Group
-Co-Facilitator 2017-2020
+Digital Library Federation Forum AIG, Metadata Working Group Co-Facilitator 2017-2020
 
 DPLA Metadata Application Profile Working Group 2017
 
-Metadata Support Group, Digital Library Federation, co-founder
-2017-present
+Metadata Support Group, Digital Library Federation, co-founder 2017-present
 
-Always Already Computational: Library Collections as Data Forum,
+Always Already Computational: Library Collections as Data Forum, University of California, Santa Barbara, invited forum partner 2017
 
-University of California, Santa Barbara, invited forum partner 2017
-
-National Strategy for Shareable Local Authorities Forum,
-
-Cornell University Library, invited forum participant 2016-2017
+National Strategy for Shareable Local Authorities Forum, Cornell University Library, invited forum participant 2016-2017
 
 DPLA Hubs Application Reviewer, Fall and Spring 2016-2017
 
-ALCTS Representative to the ALA Information Technology Advisory
-Committee 2016-2018
+ALCTS Representative to the ALA Information Technology Advisory Committee 2016-2018
 
-Digital Library Federation Forum Metadata Assessment Working Group
-Member 2016-2017
+Digital Library Federation Forum Metadata Assessment Working Group Member 2016-2017
 
 ALCTS News Editorial Assistant, ALA 2016-2018
 
@@ -1136,15 +1126,13 @@ CODES Program Planning Committee, ALA 2001-2002
 
 **Regional:**
 
-8th Digital Humanities Utah Symposium (DHU8), Organizing Committee
-member 2023-2024
+8th Digital Humanities Utah Symposium (DHU8), Organizing Committee member 2023-2024
 
 Utah Library Association Member at Large (elected) 2020-2023
 
 Utah Library Association Nominating Committee, Member at Large 2021-2022
 
-Utah Library Association Conference Planning Committee, Member at Large
-2020
+Utah Library Association Conference Planning Committee, Member at Large 2020
 
 MWDL Metadata Application Profile Taskforce 2018-present
 
